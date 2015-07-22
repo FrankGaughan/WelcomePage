@@ -4,7 +4,7 @@
 
 This site explores Coyote as an animal and a character in the histories and cultures of North America.  Users can browse primary documents, set up collections, and contribute to the growing base of knowledge about this fascinating figure. 
 
-Researchers have found evidence of coyotes in the La Brea Tarpits.  As a species, then, coyote endured when mastodons, saber toothed tigers, and dire wolves died in the late Pleistocene extinction.  The presence of coyote bones in the tarpits suggests that the animal we know today as canis latrans (or “barking dog”) may predate human presence on the continent. 
+Researchers have found evidence of coyotes in the La Brea Tarpits.  As a species, then, coyote endured when mastodons, saber toothed tigers, and dire wolves died in the late Pleistocene extinction.  The presence of coyote bones in the tarpits suggests that the animal we know today as *canis latrans* (or “barking dog”) may predate human presence on the continent. 
 
 Coyote’s role as a character in human culture is most often associated with trickster myths, common to Native American cultures across the Western United States. However, Mesoamerican cultures such as the Toletcs and the Aztecs also viewed Coyote as a potent figure.  For example, Pyramid B at Tula, the capital of the Toltec Empire (c. 900-1200 CE), features Coyote alongside jaguar and eagle in bas-relief.  These animals helped to define the warrior class in Toltec society.  The “Coyote head,” a pottery creation that depicts a man’s head emerging from the jaws of a coyote, also dates from this period and suggests a deep identification with the animal. 
 
