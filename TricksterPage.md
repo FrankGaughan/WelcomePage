@@ -4,7 +4,9 @@ If the site has a main page and sub-pages, then Trickster seems like a logical c
 
 Trickster
 
-This site includes a selection of Coyote myths, most of which were collected by anthropologists in the early 20th century.  Readers can browse and annotate the primary documents and assemble collections for scholarly use. 
+The Coyote myths on this site were originally collected by anthropologists in the early 20th century. Many of the myths are included in book-length studies of a particular culture's folklore. See, for example, Folktales of the Salishan and Sahaptin, https://archive.org/stream/folktalesofsalis00boas#page/n7/mode/2up Tribes, a collection published in 1917 that replete with Coyote's deeds and misdeeds. 
+
+Readers can browse and annotate the primary documents and assemble collections for scholarly use. 
 
 Coyote (also Old Man Coyote) is an important character in Native American mythology, particularly for tribal nations across the Southwest and Great Basin regions of the United States.  The character is particularly intriguing because he is often both the culture hero and the trickster. In one widely-distributed myth, Coyote brings fire to the people—at great peril to his own well-being; in another, he loses his eyes while playing a game he learned from birds; in still another, he fakes his own death so that he can return and marry one of his daughters. While culture heroes and trickster figures are common in myths around the world, it is unusual to see these roles combined into a single character. Robert Lowie, a contemporary of Franz Boas, describes the role confusion in his introduction to Myths and Traditions of the Crow Indians (1918):  
 
