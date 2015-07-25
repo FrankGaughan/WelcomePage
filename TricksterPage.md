@@ -1,11 +1,15 @@
 ***
 If the site has a main page and sub-pages, then Trickster seems like a logical choice. Here is some textual content for this type of page.
 ***
+
+As with other sections of this site, readers can browse various collections, annotate the texts, and assemble collections for scholarly use. You can simply browse through the myths or use the information below for context that may help structure your exploration. 
+***
+
 Coyote (also Old Man Coyote) is an important character in Native American mythology, particularly for tribal nations across the Southwest and Great Basin regions of the United States. The myths on this site on this site were originally collected by anthropologists in the early 20th century. Many of the them are included in book-length studies of a particular culture's folklore. See, for example, [Folktales of the Salishan and Sahaptin Tribes,](https://archive.org/stream/folktalesofsalis00boas#page/n7/mode/2up) a collection published in 1917 that is replete with Coyote's deeds and misdeeds. 
 
-Readers can browse and annotate the primary documents and assemble collections for scholarly use. 
+Coyote is a particularly intriguing figure because he combines the culture hero and the trickster, two mythic archetypes not often seen in a single character. For example, in some texts, readers will find that Coyote brings fire to the people—at great peril to his own well-being; in others, he loses his eyes while playing a game he learned from birds; in still another, he fakes his own death so that he can return and marry one of his daughters.
 
- The character is particularly intriguing because he is often both the culture hero and the trickster. In one widely-distributed myth, Coyote brings fire to the people—at great peril to his own well-being; in another, he loses his eyes while playing a game he learned from birds; in still another, he fakes his own death so that he can return and marry one of his daughters. While culture heroes and trickster figures are common in myths around the world, it is unusual to see these roles combined into a single character. Robert Lowie, a contemporary of Franz Boas, describes the role confusion in his introduction to Myths and Traditions of the Crow Indians (1918):  
+ Robert Lowie, a contemporary of Franz Boas, describes the role confusion in his introduction to Myths and Traditions of the Crow Indians (1918):  
 
 There is no attempt to bring order into the chaotic assemblage of supernatural and heroic beings. Old-Man-Coyote not only figures at different times as transformer, trickster, and founder of customs but changes his character even in the same part of his cycle.
 
