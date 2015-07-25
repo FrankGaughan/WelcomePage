@@ -4,7 +4,7 @@ If the site has a main page and sub-pages, then Trickster seems like a logical c
 
 Trickster
 
-The Coyote myths on this site were originally collected by anthropologists in the early 20th century. Many of the myths are included in book-length studies of a particular culture's folklore. See, for example, Folktales of the Salishan and Sahaptin, https://archive.org/stream/folktalesofsalis00boas#page/n7/mode/2up Tribes, a collection published in 1917 that replete with Coyote's deeds and misdeeds. 
+The Coyote myths on this site were originally collected by anthropologists in the early 20th century. Many of the myths are included in book-length studies of a particular culture's folklore. See, for example, [Folktales of the Salishan and Sahaptin, Tribes,] (https://archive.org/stream/folktalesofsalis00boas#page/n7/mode/2up) a collection published in 1917 that replete with Coyote's deeds and misdeeds. 
 
 Readers can browse and annotate the primary documents and assemble collections for scholarly use. 
 
